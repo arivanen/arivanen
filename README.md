@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Arivane 
 
-I'm a student of Eletronic Engineering at University of Brasília. At the moment I'm trying being more active on GitHube, so my repository is in development 😊
+I'm a student of Eletronic Engineering at University of Brasília. At the moment I'm trying being more active on GitHub, so my repository is in development 😊
 
 👩‍💻 Studying Machine Learning and Data Science
 
